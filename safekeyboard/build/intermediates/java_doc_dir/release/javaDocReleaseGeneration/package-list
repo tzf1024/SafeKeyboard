@@ -1,0 +1,13 @@
+$dokka.format:javadoc-v1
+$dokka.linkExtension:html
+$dokka.location:com.tzf.safekeyboard/IOSKeyboardView.KeyAction.Delete///PointingToDeclaration/com/tzf/safekeyboard/IOSKeyboardView.KeyAction.Delete.html
+$dokka.location:com.tzf.safekeyboard/IOSKeyboardView.KeyAction.Enter///PointingToDeclaration/com/tzf/safekeyboard/IOSKeyboardView.KeyAction.Enter.html
+$dokka.location:com.tzf.safekeyboard/IOSKeyboardView.KeyAction.Hide///PointingToDeclaration/com/tzf/safekeyboard/IOSKeyboardView.KeyAction.Hide.html
+$dokka.location:com.tzf.safekeyboard/IOSKeyboardView.KeyAction.InputChar///PointingToDeclaration/com/tzf/safekeyboard/IOSKeyboardView.KeyAction.InputChar.html
+$dokka.location:com.tzf.safekeyboard/IOSKeyboardView.KeyAction.Shift///PointingToDeclaration/com/tzf/safekeyboard/IOSKeyboardView.KeyAction.Shift.html
+$dokka.location:com.tzf.safekeyboard/IOSKeyboardView.KeyAction.Space///PointingToDeclaration/com/tzf/safekeyboard/IOSKeyboardView.KeyAction.Space.html
+$dokka.location:com.tzf.safekeyboard/IOSKeyboardView.KeyAction.SwitchMode///PointingToDeclaration/com/tzf/safekeyboard/IOSKeyboardView.KeyAction.SwitchMode.html
+$dokka.location:com.tzf.safekeyboard/IOSKeyboardView.KeyAction///PointingToDeclaration/com/tzf/safekeyboard/IOSKeyboardView.KeyAction.html
+$dokka.location:com.tzf.safekeyboard/IOSKeyboardView.Mode///PointingToDeclaration/com/tzf/safekeyboard/IOSKeyboardView.Mode.html
+com.tzf.safekeyboard
+

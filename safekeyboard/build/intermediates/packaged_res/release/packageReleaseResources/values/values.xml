@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sk_key_bg">#FFFFFFFF</color>
+    <color name="sk_key_secondary_bg">#D1D1D6</color>
+    <color name="sk_key_secondary_text">#000000</color>
+    <color name="sk_key_text">#000000</color>
+    <color name="sk_keyboard_bg">#F2F2F7</color>
+    <color name="sk_ripple">#1F000000</color>
+    <dimen name="sk_key_height">48dp</dimen>
+    <dimen name="sk_key_margin">4dp</dimen>
+    <dimen name="sk_key_radius">8dp</dimen>
+    <dimen name="sk_key_text_size">16sp</dimen>
+    <dimen name="sk_keyboard_padding">8dp</dimen>
+    <dimen name="sk_space_key_width">0dp</dimen>
+</resources>

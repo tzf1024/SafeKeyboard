@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+color sk_key_bg
+color sk_key_secondary_bg
+color sk_key_secondary_text
+color sk_key_text
+color sk_keyboard_bg
+color sk_ripple
+dimen sk_key_height
+dimen sk_key_margin
+dimen sk_key_radius
+dimen sk_key_text_size
+dimen sk_keyboard_padding
+dimen sk_space_key_width
+drawable sk_key_bg
+drawable sk_key_secondary_bg
+drawable sk_keyboard_bg

@@ -1,0 +1,151 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.tzf1024",
+    "module": "safekeyboard",
+    "version": "0.1.0-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.11.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.databinding",
+          "module": "viewbinding",
+          "version": {
+            "requires": "8.10.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.0.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "safekeyboard-0.1.0-SNAPSHOT.aar",
+          "url": "safekeyboard-0.1.0-SNAPSHOT.aar",
+          "size": 22963,
+          "sha512": "b7330f7ef060b5ddfd4edf15dcb1e5fcf588b256f96a3b736cd429b5b0ab8acf266842cf14ba74730512ec4df679d54b80d08bc03422803e4f2d6bae785aeb6c",
+          "sha256": "05ad92a47a4b1ff628e9950f409b25cd3ee907bf9ed5881db8cbfa0e4d159bf4",
+          "sha1": "8bc07f1ba75cff69ffd8b675ebd1fdb62d0bca2b",
+          "md5": "5c1791d7ab286dd77914c2bc425b2b92"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.17.0"
+          }
+        },
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.7.1"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.13.0"
+          }
+        },
+        {
+          "group": "androidx.databinding",
+          "module": "viewbinding",
+          "version": {
+            "requires": "8.10.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.0.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "safekeyboard-0.1.0-SNAPSHOT.aar",
+          "url": "safekeyboard-0.1.0-SNAPSHOT.aar",
+          "size": 22963,
+          "sha512": "b7330f7ef060b5ddfd4edf15dcb1e5fcf588b256f96a3b736cd429b5b0ab8acf266842cf14ba74730512ec4df679d54b80d08bc03422803e4f2d6bae785aeb6c",
+          "sha256": "05ad92a47a4b1ff628e9950f409b25cd3ee907bf9ed5881db8cbfa0e4d159bf4",
+          "sha1": "8bc07f1ba75cff69ffd8b675ebd1fdb62d0bca2b",
+          "md5": "5c1791d7ab286dd77914c2bc425b2b92"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseSourcePublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "safekeyboard-0.1.0-SNAPSHOT-sources.jar",
+          "url": "safekeyboard-0.1.0-SNAPSHOT-sources.jar",
+          "size": 3746,
+          "sha512": "45d5da0c474aeed35dea6a3389b788fc3c2998ce3c3f96ffc285b537beef808908e8fae76ce54ceb691bcd048985e7c4179a7f36522deb3d2ac27637fd27c962",
+          "sha256": "2e8e00e4bb366dbfc10a57319aa895df7ddfc7fb2982aaa9148f3f6d2ef80abe",
+          "sha1": "2a24c311791ff5a8e89c7a622edfe604373ad334",
+          "md5": "1e2a6db0d876632237596988112d9a60"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseJavaDocPublication",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "safekeyboard-0.1.0-SNAPSHOT-javadoc.jar",
+          "url": "safekeyboard-0.1.0-SNAPSHOT-javadoc.jar",
+          "size": 346724,
+          "sha512": "0f7df76a402f99c34423ca6b64eb23cdd0ce1122f902f226fefa004aa6036a4a8bd501b04bc720ce5fe2165f278fd7185dca0a1e9da1b0567ab856218e2fc84c",
+          "sha256": "19236c8a0a001a336b17c2b4a0302d57de45e492632d17e3b57b6853500a3fd3",
+          "sha1": "dc4e9f5b2166fef55b7bdb8a4b8f99673780ed58",
+          "md5": "0d760488d6a5db9b15f469fc9f1a6f76"
+        }
+      ]
+    }
+  ]
+}

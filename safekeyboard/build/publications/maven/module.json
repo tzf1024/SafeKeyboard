@@ -3,9 +3,9 @@
   "component": {
     "group": "io.github.tzf1024",
     "module": "safekeyboard",
-    "version": "0.1.0-SNAPSHOT",
+    "version": "0.1.0",
     "attributes": {
-      "org.gradle.status": "integration"
+      "org.gradle.status": "release"
     }
   },
   "createdBy": {
@@ -40,8 +40,8 @@
       ],
       "files": [
         {
-          "name": "safekeyboard-0.1.0-SNAPSHOT.aar",
-          "url": "safekeyboard-0.1.0-SNAPSHOT.aar",
+          "name": "safekeyboard-0.1.0.aar",
+          "url": "safekeyboard-0.1.0.aar",
           "size": 22963,
           "sha512": "b7330f7ef060b5ddfd4edf15dcb1e5fcf588b256f96a3b736cd429b5b0ab8acf266842cf14ba74730512ec4df679d54b80d08bc03422803e4f2d6bae785aeb6c",
           "sha256": "05ad92a47a4b1ff628e9950f409b25cd3ee907bf9ed5881db8cbfa0e4d159bf4",
@@ -97,8 +97,8 @@
       ],
       "files": [
         {
-          "name": "safekeyboard-0.1.0-SNAPSHOT.aar",
-          "url": "safekeyboard-0.1.0-SNAPSHOT.aar",
+          "name": "safekeyboard-0.1.0.aar",
+          "url": "safekeyboard-0.1.0.aar",
           "size": 22963,
           "sha512": "b7330f7ef060b5ddfd4edf15dcb1e5fcf588b256f96a3b736cd429b5b0ab8acf266842cf14ba74730512ec4df679d54b80d08bc03422803e4f2d6bae785aeb6c",
           "sha256": "05ad92a47a4b1ff628e9950f409b25cd3ee907bf9ed5881db8cbfa0e4d159bf4",
@@ -117,8 +117,8 @@
       },
       "files": [
         {
-          "name": "safekeyboard-0.1.0-SNAPSHOT-sources.jar",
-          "url": "safekeyboard-0.1.0-SNAPSHOT-sources.jar",
+          "name": "safekeyboard-0.1.0-sources.jar",
+          "url": "safekeyboard-0.1.0-sources.jar",
           "size": 3746,
           "sha512": "45d5da0c474aeed35dea6a3389b788fc3c2998ce3c3f96ffc285b537beef808908e8fae76ce54ceb691bcd048985e7c4179a7f36522deb3d2ac27637fd27c962",
           "sha256": "2e8e00e4bb366dbfc10a57319aa895df7ddfc7fb2982aaa9148f3f6d2ef80abe",
@@ -137,8 +137,8 @@
       },
       "files": [
         {
-          "name": "safekeyboard-0.1.0-SNAPSHOT-javadoc.jar",
-          "url": "safekeyboard-0.1.0-SNAPSHOT-javadoc.jar",
+          "name": "safekeyboard-0.1.0-javadoc.jar",
+          "url": "safekeyboard-0.1.0-javadoc.jar",
           "size": 346724,
           "sha512": "0f7df76a402f99c34423ca6b64eb23cdd0ce1122f902f226fefa004aa6036a4a8bd501b04bc720ce5fe2165f278fd7185dca0a1e9da1b0567ab856218e2fc84c",
           "sha256": "19236c8a0a001a336b17c2b4a0302d57de45e492632d17e3b57b6853500a3fd3",

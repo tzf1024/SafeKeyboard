@@ -9,8 +9,10 @@ An in‑app secure keyboard library with an iOS‑like look and key layout. It s
 - Pure View solution: does not register as a system IME; no clipboard use or suggestions
 - Simple integration; can be bound directly to `EditText`
 
-## Preview
-After integration, the keyboard is fixed at the bottom of the page. It automatically shows when an `EditText` gains focus and hides when it loses focus.
+## 📱 Preview
+
+<img src="https://github.com/tzf1024/SafeKeyboard/blob/main/Screen_recording_20251112_210939-ezgif.com-video-to-gif-converter.gif" alt="功能截图" width="50%" height="50%">
+
 
 ## Quick Start
 

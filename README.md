@@ -9,8 +9,10 @@
 - 纯 View 方案，不注册系统输入法，无剪贴板/联想
 - 简单接入，可直接绑定到 EditText
 
-## 预览
-集成后键盘固定在页面底部，点击 `EditText` 自动显示，失焦自动收起。
+## 📱 效果预览
+
+<img src="https://github.com/tzf1024/SafeKeyboard/blob/main/Screen_recording_20251112_210939-ezgif.com-video-to-gif-converter.gif" alt="功能截图" width="50%" height="50%">
+
 
 ## 快速开始
 

@@ -19,7 +19,7 @@ An in‑app secure keyboard library with an iOS‑like look and key layout. It s
 1) app/build.gradle.kts
 ```kotlin
 dependencies {
-    implementation(project(":safekeyboard"))
+    implementation("io.github.tzf1024:safekeyboard:0.1.0")
 }
 ```
 

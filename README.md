@@ -19,7 +19,7 @@
 1) app/build.gradle.kts
 ```kotlin
 dependencies {
-    implementation(project(":safekeyboard"))
+    implementation("io.github.tzf1024:safekeyboard:0.1.0")
 }
 ```
 
